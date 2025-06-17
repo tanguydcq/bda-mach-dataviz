@@ -3,3 +3,5 @@
 **.parquet/
 **.csv
 **.sh
+
+source/severity_pred/final_accident_model
