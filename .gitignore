@@ -5,3 +5,4 @@
 **.sh
 
 source/severity_pred/final_accident_model
+source/severity_pred/logistic_regression_model
